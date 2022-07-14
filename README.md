@@ -14,7 +14,7 @@
 
 * Splash Screen
 
-* 8 Screens
+* 10 Screens
 
 * OnBoardingScreen
 
