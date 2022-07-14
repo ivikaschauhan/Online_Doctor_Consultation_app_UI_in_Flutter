@@ -23,7 +23,6 @@
 
 
 
-https://user-images.githubusercontent.com/79275342/178914142-e1aadb85-e120-4eb0-b8d8-5fdc376455a4.mp4
 
 
 
