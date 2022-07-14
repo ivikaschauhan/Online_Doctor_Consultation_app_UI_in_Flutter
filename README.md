@@ -1,6 +1,25 @@
-# flutter_android_project
+## Features
 
-A new Flutter project.
+* State Management
+
+* Navigation Bar
+
+* Responsive Design
+
+* Responsive Drawar
+
+* Hybrid Application
+
+* Routing
+
+* Splash Screen
+
+* 8 Screens
+
+* OnBoardingScreen
+
+* Login/SignUp U
+
 
 ## Getting Started
 
